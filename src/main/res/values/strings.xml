@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string-array name="challenges">
+        <item>Pocket Money</item>
+        <item>Movie Night</item>
+        <item>Hour of Video Game</item>
+        <item>Evening Snack</item>
+    </string-array>
+</resources>
